@@ -1,0 +1,2 @@
+# sqsp-gui
+SQSP Gui
